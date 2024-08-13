@@ -16,4 +16,4 @@
 
 ### veja o site rodando
 
-link:
+link:dev-links-delta-plum.vercel.app
